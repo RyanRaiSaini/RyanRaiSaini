@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Mathematics student at the University of Waterloo wh
 
 ## Currently working on
 
-- **Personal site:** a portfolio to show my projects and experience. Link coming soon.
+- **Personal site:** a portfolio to show my projects and experience. It's live at [ryansaini.vercel.app](https://ryansaini.vercel.app).
 - Waterloo coursework in programming, algebra and calculus.
 
 ## Beyond code
