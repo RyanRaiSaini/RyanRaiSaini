@@ -12,6 +12,7 @@ Welcome to my GitHub! I'm a Mathematics student at the University of Waterloo wh
 
 ## Currently working on
 
+- **[Ten Deep](https://ten-deep.vercel.app):** I'm building an NBA drafting and season simulation game. You spin for a team season, draft a 10-man roster under a $200M salary cap where every player costs his real contract, then simulate an 82-game season and the playoffs. You can send a friend the same spins to beat your record, run a multi-season career, or draft live with up to 8 friends in a Party room. It's built with Expo (React Native) and TypeScript and runs on Vercel. Play it at [ten-deep.vercel.app](https://ten-deep.vercel.app) ([code](https://github.com/RyanRaiSaini/Ten-Deep)).
 - **Personal site:** a portfolio to show my projects and experience. It's live at [ryansaini.vercel.app](https://ryansaini.vercel.app).
 - Waterloo coursework in programming, algebra and calculus.
 
